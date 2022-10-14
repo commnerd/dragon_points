@@ -1,2 +1,2 @@
-# dragon-points
+# Dragon Points
 Those who understand the title know what this is...
